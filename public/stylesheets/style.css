@@ -95,6 +95,13 @@
     flex: 1;
     padding: 2% 4%;
   }
+
+  .btn {
+    /* margin: 10px 0; */
+    padding: 15px 20px;
+    font-size: medium;
+    margin-bottom: 40px;
+  }
   
   .btn-no-style {
     background: none;
