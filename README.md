@@ -61,19 +61,19 @@ Please first submit a new "issue" for the change you want to make in this reposi
 
 * Homepage
 
-![alt=homepage](./utils/images/homepage.jpg)
+![alt=homepage](./utils/images/homepage.JPG)
 
 * Dashboard
 
-![alt=dashboard](./utils/images/dashboard.jpg)
+![alt=dashboard](./utils/images/dashboard.JPG)
 
 * Login Page
 
-![alt=login](./utils/images/login.jpg)
+![alt=login](./utils/images/login.JPG)
 
 * Comments
 
-![alt=comments](./utils/images/comments.jpg)
+![alt=comments](./utils/images/comments.JPG)
 
 
 ## Questions
