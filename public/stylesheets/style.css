@@ -120,6 +120,11 @@
     background: none;
     color: #3486eb;
   }
+
+  .addBtn {
+    color:purple;
+    font-size: x-large;
+  }
   
   .delete-post-btn {
     background-color: #d41414;
