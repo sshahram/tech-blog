@@ -48,7 +48,7 @@ You can also checkout the deployed app on heroku.
 
 Please visit below link for the deployed application on heroku: 
 
-[Link to Heroku App]()
+[Link to Heroku App](https://tech-blog-521.herokuapp.com/)
 
 ## License
 Please see the following link for the license information: 
