@@ -8,8 +8,8 @@ The main purpose of this project is to build a CMS-style blog site in which user
 
 ## Table of Contents
 * [Description](#description)
-* [Description](#acceptance-criteria)
 * [Table of Contents](#table-of-contents)
+* [Acceptance Criteria](#acceptance-criteria)
 * [Usage](#usage)
 * [Deployed App](#deployed-app)
 * [License](#license)
