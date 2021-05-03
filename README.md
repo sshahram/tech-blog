@@ -19,7 +19,7 @@ The main purpose of this project is to build a CMS-style blog site in which user
 
 ## Acceptance-Criteria
 
-* When users visit the site for the first time, then they are presented with the homepage, which includes existing blog posts and navigation links for the homepage and the option to log in.
+* When users visit the site for the first time, then they are presented with the homepage, which includes existing blog posts and navigation links for the homepage, dashboard and the option to log in.
 * When users choose to sign up, then they are prompted to create a username and password
 * When users click on the sign-up button, then the credentials are saved and they are logged into the site.
 * When users revisit the site at a later time and choose to sign in, then they are prompted to enter my username and password.
