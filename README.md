@@ -4,7 +4,7 @@
 
 ## Description
 
-The main purpose of this project is to build a CMS-style blog site in which users can publish articles, blog posts, and their thoughts and opinions.
+The main purpose of this project is to build a CMS-style blog site in which users can publish articles, blog posts, and share their thoughts and opinions.
 
 ## Table of Contents
 * [Description](#description)
